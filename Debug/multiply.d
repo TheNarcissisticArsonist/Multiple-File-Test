@@ -1,0 +1,1 @@
+multiply.d: ../multiply.cpp
